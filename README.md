@@ -8,6 +8,6 @@ Designed a webpage using the framework of Bootstrap.
 <br>
 <h1>Framework used:Bootstrap</h1>
 <br>
-<h2>Link:</h2>
+<h2>Link:https://technodeba.github.io/sample-website-2K24-1/</h2>
 <br>
 <h4>Author:Debajit Pramanick</h4>
